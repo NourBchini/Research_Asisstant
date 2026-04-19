@@ -91,6 +91,3 @@ Legacy **`Tavily/`** holds an older experiment script; the active app lives unde
 - **Groq tool calling** on smaller models can occasionally fail; retrying the same topic often works, or you can point Scout/Reader at a larger model in `agents.py`.
 - Repository name on GitHub may show as **Research_Asisstant**; you can rename the repo in GitHub settings if you prefer **Research_Assistant**.
 
-## License
-
-No license file is included by default; add one if you plan to share or accept contributions.
