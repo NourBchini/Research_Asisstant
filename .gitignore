@@ -1,0 +1,20 @@
+.venv/
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# App data & outputs
+chroma_db/
+research_assistant/data/chroma_db/
+research_assistant/outputs/
+
+# Legacy / local experiments
+Tavily/conversations.db
+
+# OS / editor
+.DS_Store
